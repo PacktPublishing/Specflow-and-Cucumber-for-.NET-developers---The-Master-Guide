@@ -1,0 +1,13 @@
+{
+    "language": {
+        "feature": "en-gb"
+    },
+    "trace": {
+        "stepDefinitionSkeletonStyle": "RegexAttribute"
+    },
+    "stepAssemblies": [
+        {
+            "assembly": "SpecFlowProject3"
+        }
+    ]
+}
